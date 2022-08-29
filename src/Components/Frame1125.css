@@ -1,0 +1,770 @@
+
+.Frame1125_Frame1125 {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+}
+.Frame1125_Frame1125 .Rectangle1 {
+	position: absolute;
+	left: 0px;
+	top: 0.75px;
+	width: 1440px;
+	height: 810px;
+	background: rgba(231,242,255,1.00);
+}
+.Frame1125_Frame1125 .Rectangle2 {
+	position: absolute;
+	left: 0px;
+	top: 0.75px;
+	width: 1440px;
+	height: 810px;
+	background: rgba(231,242,255,1.00);
+}
+.Frame1125_Frame1125 .ChatBar {
+	position: absolute;
+	left: 0px;
+	top: 743.25px;
+	width: 1440px;
+	height: 67.5px;
+}
+.Frame1125_Frame1125 .ChatBar .Rectangle10 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 67.5px;
+	background: rgba(80,160,255,1.00);
+}
+.Frame1125_Frame1125 .ChatBar .Rectangle11 {
+	position: absolute;
+	left: 329.25px;
+	top: 10.5px;
+	width: 1089px;
+	height: 46.5px;
+	background: rgba(183,216,255,1.00);
+	border-radius: 7.5px;
+}
+.Frame1125_Frame1125 .ChatBar .Send {
+	position: absolute;
+	left: 1362px;
+	top: 15.75px;
+	width: 36px;
+	height: 36px;
+}
+.Frame1125_Frame1125 .ChatBar .Send .Vector {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Frame1125_Frame1125 .ChatBar .Send .Vector_1 {
+	position: absolute;
+	left: 3px;
+	top: 4.5px;
+	width: 87.5%;
+	height: 75%;
+}
+.Frame1125_Frame1125 .ChatBar .Attachfile {
+	position: absolute;
+	left: 269.25px;
+	top: 15.75px;
+	width: 36px;
+	height: 36px;
+}
+.Frame1125_Frame1125 .ChatBar .Attachfile .Vector_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Frame1125_Frame1125 .ChatBar .Attachfile .Vector_3 {
+	position: absolute;
+	left: 10.5px;
+	top: 1.5px;
+	width: 45.83333333333333%;
+	height: 91.66666666666666%;
+}
+.Frame1125_Frame1125 .ChatBar ._ {
+	position: absolute;
+	left: 340.5px;
+	top: 20.25px;
+	width: 7.5px;
+	height: 27px;
+	display: flex;
+	justify-content: flex-end;
+	text-align: right;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 21px;
+	font-weight: 400;
+	line-height: 27px;
+}
+.Frame1125_Frame1125 .ChatBar .Escribtumensajeac {
+	position: absolute;
+	left: 354px;
+	top: 20.25px;
+	width: 222px;
+	height: 27px;
+	display: flex;
+	justify-content: flex-end;
+	text-align: right;
+	color: rgba(98,98,98,1.00);
+	font-family: Inter;
+	font-size: 21px;
+	font-weight: 400;
+	line-height: 27px;
+}
+.Frame1125_Frame1125 .Group33 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 810.75px;
+}
+.Frame1125_Frame1125 .Group33 .Rectangle2_1 {
+	position: absolute;
+	left: 0px;
+	top: 0.75px;
+	width: 245.23775482177734px;
+	height: 810px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 6px;
+}
+.Frame1125_Frame1125 .Group33 .ContactList {
+	position: absolute;
+	left: 0px;
+	top: 197.25px;
+	width: 245.25px;
+	height: 107.52703857421875px;
+}
+.Frame1125_Frame1125 .Group33 .ContactList .Contact {
+	position: absolute;
+	left: 12px;
+	top: 71.75912475585938px;
+	width: 226.5px;
+	height: 35.767913818359375px;
+}
+.Frame1125_Frame1125 .Group33 .ContactList .Contact .FranciscaPintos {
+	position: absolute;
+	left: 42px;
+	top: 4.470977783203125px;
+	width: 99px;
+	height: 17.8839111328125px;
+	color: rgba(42,45,55,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 500;
+	line-height: 14.0625px;
+}
+.Frame1125_Frame1125 .Group33 .ContactList .Contact .Muchasgracias {
+	position: absolute;
+	left: 42px;
+	top: 19.374298095703125px;
+	width: 75.75px;
+	height: 13.412933349609375px;
+	color: rgba(177,177,177,1.00);
+	font-family: Poppins;
+	font-size: 9px;
+	font-weight: 500;
+	line-height: 10.546875px;
+}
+.Frame1125_Frame1125 .Group33 .ContactList .Contact ._10062022 {
+	position: absolute;
+	left: 179.25px;
+	top: 8.94195556640625px;
+	width: 47.25px;
+	height: 12.66778564453125px;
+	color: rgba(177,177,177,1.00);
+	font-family: Poppins;
+	font-size: 8.25px;
+	font-weight: 500;
+	line-height: 9.66796875px;
+}
+.Frame1125_Frame1125 .Group33 .ContactList .Contact .__1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 36px;
+	height: 35.767913818359375px;
+}
+.Frame1125_Frame1125 .Group33 .ContactList .Contact .__1 .Vector_4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Frame1125_Frame1125 .Group33 .ContactList .Contact .__1 .Vector_5 {
+	position: absolute;
+	left: 3px;
+	top: 2.980682373046875px;
+	width: 83.33333333333334%;
+	height: 83.33320535168079%;
+}
+.Frame1125_Frame1125 .Group33 .ContactList .Contact_1 {
+	position: absolute;
+	left: 12px;
+	top: 35.9912109375px;
+	width: 225.75px;
+	height: 35.767913818359375px;
+}
+.Frame1125_Frame1125 .Group33 .ContactList .Contact_1 .MarcosMeza {
+	position: absolute;
+	left: 42px;
+	top: 4.470977783203125px;
+	width: 79.5px;
+	height: 17.8839111328125px;
+	color: rgba(42,45,55,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 500;
+	line-height: 14.0625px;
+}
+.Frame1125_Frame1125 .Group33 .ContactList .Contact_1 .HolaQuedamosenreu {
+	position: absolute;
+	left: 42px;
+	top: 19.374298095703125px;
+	width: 114px;
+	height: 13.412933349609375px;
+	color: rgba(177,177,177,1.00);
+	font-family: Poppins;
+	font-size: 9px;
+	font-weight: 500;
+	line-height: 10.546875px;
+}
+.Frame1125_Frame1125 .Group33 .ContactList .Contact_1 .Ayer {
+	position: absolute;
+	left: 206.25px;
+	top: 8.94195556640625px;
+	width: 19.5px;
+	height: 12.66778564453125px;
+	color: rgba(177,177,177,1.00);
+	font-family: Poppins;
+	font-size: 8.25px;
+	font-weight: 500;
+	line-height: 9.66796875px;
+}
+.Frame1125_Frame1125 .Group33 .ContactList .Contact_1 .__2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 36px;
+	height: 35.767913818359375px;
+}
+.Frame1125_Frame1125 .Group33 .ContactList .Contact_1 .__2 .Vector_6 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Frame1125_Frame1125 .Group33 .ContactList .Contact_1 .__2 .Vector_7 {
+	position: absolute;
+	left: 3px;
+	top: 2.980682373046875px;
+	width: 83.33333333333334%;
+	height: 83.33320535168079%;
+}
+.Frame1125_Frame1125 .Group33 .ContactList .Contact_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 245.25px;
+	height: 36px;
+}
+.Frame1125_Frame1125 .Group33 .ContactList .Contact_2 .Rectangle9 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 245.25px;
+	height: 36px;
+	background: rgba(80,160,255,0.15);
+}
+.Frame1125_Frame1125 .Group33 .ContactList .Contact_2 .CinthiaRojas {
+	position: absolute;
+	left: 54px;
+	top: 4.694366455078125px;
+	width: 80.25px;
+	height: 17.8839111328125px;
+	color: rgba(42,45,55,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 500;
+	line-height: 14.0625px;
+}
+.Frame1125_Frame1125 .Group33 .ContactList .Contact_2 .HolaQuedamosenreu_1 {
+	position: absolute;
+	left: 54px;
+	top: 19.59759521484375px;
+	width: 114px;
+	height: 13.412933349609375px;
+	color: rgba(177,177,177,1.00);
+	font-family: Poppins;
+	font-size: 9px;
+	font-weight: 500;
+	line-height: 10.546875px;
+}
+.Frame1125_Frame1125 .Group33 .ContactList .Contact_2 ._637PM {
+	position: absolute;
+	left: 206.25px;
+	top: 9.16534423828125px;
+	width: 31.5px;
+	height: 12.66778564453125px;
+	color: rgba(177,177,177,1.00);
+	font-family: Poppins;
+	font-size: 8.25px;
+	font-weight: 500;
+	line-height: 9.66796875px;
+}
+.Frame1125_Frame1125 .Group33 .ContactList .Contact_2 .__3 {
+	position: absolute;
+	left: 12px;
+	top: 0.223388671875px;
+	width: 36px;
+	height: 35.767913818359375px;
+}
+.Frame1125_Frame1125 .Group33 .ContactList .Contact_2 .__3 .Vector_8 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Frame1125_Frame1125 .Group33 .ContactList .Contact_2 .__3 .Vector_9 {
+	position: absolute;
+	left: 3px;
+	top: 2.980682373046875px;
+	width: 83.33333333333334%;
+	height: 83.33320535168079%;
+}
+.Frame1125_Frame1125 .Group33 .Avatar {
+	position: absolute;
+	left: 11.954475402832031px;
+	top: 79.94329833984375px;
+	width: 226.1063003540039px;
+	height: 47.4609375px;
+}
+.Frame1125_Frame1125 .Group33 .Avatar .Frame2 {
+	position: relative;
+	flex: none;
+	margin-bottom: 7.5px;
+	width: 96px;
+	height: 33px;
+	display: flex;
+	padding-top: 6px;
+	padding-right: 6px;
+	padding-bottom: 6px;
+	padding-left: 6px;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Frame1125_Frame1125 .Group33 .Avatar .Frame2 .Group28 {
+	position: relative;
+	flex: none;
+	margin-right: 88.5px;
+	width: 84px;
+	height: 21px;
+}
+.Frame1125_Frame1125 .Group33 .Avatar .Frame2 .Group28 .Ellipse1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 21px;
+	height: 21px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 50%;
+	background-size: cover;
+}
+.Frame1125_Frame1125 .Group33 .Avatar .Frame2 .Group28 .JhonDoe {
+	position: absolute;
+	left: 27px;
+	top: 1.5px;
+	width: 57px;
+	height: 18px;
+	color: rgba(42,45,55,1.00);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 500;
+	line-height: 14.0625px;
+}
+.Frame1125_Frame1125 .Group33 .Avatar .Frame2 .arrowright {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 88.5px;
+	width: 18px;
+	height: 18px;
+}
+.Frame1125_Frame1125 .Group33 .Avatar .Frame2 .arrowright .Vector_10 {
+	position: absolute;
+	left: 3.75px;
+	top: 9px;
+	width: 58.333333333333336%;
+	height: 0%;
+}
+.Frame1125_Frame1125 .Group33 .Avatar .Frame2 .arrowright .Vector_11 {
+	position: absolute;
+	left: 9px;
+	top: 3.75px;
+	width: 29.166666666666668%;
+	height: 58.333333333333336%;
+}
+.Frame1125_Frame1125 .Group33 .NavItemdefault {
+	position: absolute;
+	left: 10.5px;
+	top: 685.5559387207031px;
+	width: 87.75px;
+	height: 34.27757263183594px;
+}
+.Frame1125_Frame1125 .Group33 .NavItemdefault .iconsalertcircle {
+	position: relative;
+	flex: none;
+	margin-right: 6px;
+	width: 20.51282051282051%;
+	height: 52.5124698686574%;
+}
+.Frame1125_Frame1125 .Group33 .NavItemdefault .iconsalertcircle .Vector_12 {
+	position: absolute;
+	left: 1.5px;
+	top: 1.5px;
+	width: 83.33333333333334%;
+	height: 83.33333333333334%;
+}
+.Frame1125_Frame1125 .Group33 .NavItemdefault .iconsalertcircle .Vector_13 {
+	position: absolute;
+	left: 9px;
+	top: 6px;
+	width: 0%;
+	height: 16.666666666666664%;
+}
+.Frame1125_Frame1125 .Group33 .NavItemdefault .iconsalertcircle .Vector_14 {
+	position: absolute;
+	left: 9px;
+	top: 12px;
+	width: 0.04170735677083333%;
+	height: 0%;
+}
+.Frame1125_Frame1125 .Group33 .NavItemdefault .Help {
+	position: relative;
+	flex: none;
+	margin-right: 6px;
+	width: 51.28205128205128%;
+	height: 59.07652860223956%;
+	color: rgba(42,45,55,0.60);
+	font-family: Poppins;
+	font-size: 13.5px;
+	font-weight: 500;
+	line-height: 15.8203125px;
+}
+.Frame1125_Frame1125 .Group33 .NavItemdefault_1 {
+	position: absolute;
+	left: 10.362190246582031px;
+	top: 738.8593139648438px;
+	width: 87.5763931274414px;
+	height: 34.013671875px;
+}
+.Frame1125_Frame1125 .Group33 .NavItemdefault_1 .iconslogout {
+	position: relative;
+	flex: none;
+	margin-right: 6px;
+	width: 20.553484057977077%;
+	height: 52.91989664082687%;
+}
+.Frame1125_Frame1125 .Group33 .NavItemdefault_1 .iconslogout .Vector_15 {
+	position: absolute;
+	left: 2.25px;
+	top: 2.25px;
+	width: 25%;
+	height: 75%;
+}
+.Frame1125_Frame1125 .Group33 .NavItemdefault_1 .iconslogout .Vector_16 {
+	position: absolute;
+	left: 12px;
+	top: 5.25px;
+	width: 20.833333333333336%;
+	height: 41.66666666666667%;
+}
+.Frame1125_Frame1125 .Group33 .NavItemdefault_1 .iconslogout .Vector_17 {
+	position: absolute;
+	left: 6.75px;
+	top: 9px;
+	width: 50%;
+	height: 0%;
+}
+.Frame1125_Frame1125 .Group33 .NavItemdefault_1 .Logout {
+	position: relative;
+	flex: none;
+	margin-right: 6px;
+	width: 34.255806763295126%;
+	height: 59.53488372093023%;
+	color: rgba(235,87,87,1.00);
+	font-family: Poppins;
+	font-size: 13.5px;
+	font-weight: 500;
+	line-height: 15.8203125px;
+}
+.Frame1125_Frame1125 .Group33 .Group29 {
+	position: absolute;
+	left: 11.954475402832031px;
+	top: 140.06048583984375px;
+	width: 222.12554168701172px;
+	height: 37.177734375px;
+}
+.Frame1125_Frame1125 .Group33 .Group29 .Rectangle8 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 222.12554168701172px;
+	height: 37.177734375px;
+	background: rgba(246,248,250,1.00);
+	border-radius: 6px;
+}
+.Frame1125_Frame1125 .Group33 .Group29 .Frame4 {
+	position: absolute;
+	left: 0px;
+	top: 2.373046875px;
+	width: 84.75px;
+	height: 30px;
+	display: flex;
+	padding-top: 6px;
+	padding-right: 6px;
+	padding-bottom: 6px;
+	padding-left: 6px;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Frame1125_Frame1125 .Group33 .Group29 .Frame4 .search {
+	position: relative;
+	flex: none;
+	margin-right: 12px;
+	width: 18px;
+	height: 18px;
+}
+.Frame1125_Frame1125 .Group33 .Group29 .Frame4 .search .Vector_18 {
+	position: absolute;
+	left: 2.25px;
+	top: 2.25px;
+	width: 66.66666666666666%;
+	height: 66.66666666666666%;
+}
+.Frame1125_Frame1125 .Group33 .Group29 .Frame4 .search .Vector_19 {
+	position: absolute;
+	left: 12.487495422363281px;
+	top: 12.487518310546875px;
+	width: 18.125025431315102%;
+	height: 18.124898274739586%;
+}
+.Frame1125_Frame1125 .Group33 .Group29 .Frame4 .Search {
+	position: relative;
+	flex: none;
+	margin-right: 12px;
+	width: 42.75px;
+	height: 18px;
+	color: rgba(42,45,55,0.60);
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: 500;
+	line-height: 14.0625px;
+}
+.Frame1125_Frame1125 .Group33 .Vector2 {
+	position: absolute;
+	left: 0px;
+	top: 133.9910888671875px;
+	width: 245.23844146728516px;
+	height: 0px;
+}
+.Frame1125_Frame1125 .Group33 .Banner {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 68.25px;
+}
+.Frame1125_Frame1125 .Group33 .Banner .Rectangle10_1 {
+	position: absolute;
+	left: 0px;
+	top: 0.75px;
+	width: 1440px;
+	height: 67.5px;
+	background: rgba(80,160,255,1.00);
+}
+.Frame1125_Frame1125 .Group33 .Banner .MenuVertical {
+	position: absolute;
+	left: 1380px;
+	top: 16.5px;
+	width: 36px;
+	height: 36px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Frame1125_Frame1125 .Group33 .Banner .Accountcircle {
+	position: absolute;
+	left: 269.25px;
+	top: 0px;
+	width: 66px;
+	height: 66px;
+}
+.Frame1125_Frame1125 .Group33 .Banner .Accountcircle .Rectangle12 {
+	position: absolute;
+	left: 11.687499046325684px;
+	top: 10.3125px;
+	width: 66.66666811162774%;
+	height: 68.75%;
+	background: rgba(255,255,255,1.00);
+	border-radius: 16.5px;
+}
+.Frame1125_Frame1125 .Group33 .Banner .Accountcircle .Vector_20 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Frame1125_Frame1125 .Group33 .Banner .Accountcircle .Vector_21 {
+	position: absolute;
+	left: 5.499999046325684px;
+	top: 5.500030517578125px;
+	width: 83.3333362232555%;
+	height: 83.33337957208808%;
+}
+.Frame1125_Frame1125 .Group33 .Banner .CinthiaRojas_1 {
+	position: absolute;
+	left: 341.25px;
+	top: 15px;
+	width: 346.5px;
+	height: 18px;
+	color: rgba(42,45,55,1.00);
+	font-family: Poppins;
+	font-size: 27px;
+	font-weight: 500;
+	line-height: 31.640625px;
+}
+.Frame1125_Frame1125 .Group33 .Logo {
+	position: absolute;
+	left: 44.25px;
+	top: 8.25px;
+	width: 156px;
+	height: 53.25px;
+}
+.Frame1125_Frame1125 .Group33 .Logo .image1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 156px;
+	height: 53.25px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Frame1125_Frame1125 .Line1 {
+	position: absolute;
+	left: 245.25px;
+	top: 0.75px;
+	width: 0px;
+	height: 810px;
+	border: 1px solid rgba(224.39999878406525,224.39999878406525,224.39999878406525,1);
+}
+.Frame1125_Frame1125 .ChatSection {
+	position: absolute;
+	left: 268.5px;
+	top: 106.5px;
+	width: 1149.75px;
+	height: 197.25px;
+}
+.Frame1125_Frame1125 .ChatSection .Frame353 {
+	position: absolute;
+	left: 797.25px;
+	top: 140.25px;
+	width: 352.5px;
+	height: 57px;
+	display: flex;
+	padding-top: 15px;
+	padding-right: 15px;
+	padding-bottom: 15px;
+	padding-left: 15px;
+	box-sizing: border-box;
+	justify-content: flex-end;
+	align-items: center;
+	background: rgba(183,216,255,1.00);
+	border-radius: 9px;
+}
+.Frame1125_Frame1125 .ChatSection .Frame353 .HolaCinthiaAsesnosvemos {
+	position: relative;
+	flex: none;
+	margin-right: 15px;
+	width: 91.48936170212765%;
+	height: 47.368421052631575%;
+	display: flex;
+	justify-content: flex-end;
+	text-align: right;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 21px;
+	font-weight: 400;
+	line-height: 27px;
+}
+.Frame1125_Frame1125 .ChatSection .Frame159 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 442.5px;
+	height: 121.5px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: flex-end;
+}
+.Frame1125_Frame1125 .ChatSection .Frame159 .Frame356 {
+	position: relative;
+	flex: none;
+	margin-right: 12px;
+	width: 442.5px;
+	height: 121.5px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 30px;
+	padding-right: 30px;
+	padding-bottom: 30px;
+	padding-left: 30px;
+	box-sizing: border-box;
+	background: rgba(255,255,255,1.00);
+	border-radius: 9px;
+}
+.Frame1125_Frame1125 .ChatSection .Frame159 .Frame356 .HolaQuedamosenreunirnoshoy {
+	position: relative;
+	flex: none;
+	margin-bottom: 15px;
+	width: 70.33898305084746%;
+	height: 19.1358024691358%;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 19.5px;
+	font-weight: 400;
+	line-height: 23.40000057220459px;
+}
+.Frame1125_Frame1125 .ChatSection .Frame159 .Frame356 .Nosvemosenelgimnasio {
+	position: relative;
+	flex: none;
+	margin-bottom: 15px;
+	width: 55.59322033898305%;
+	height: 19.1358024691358%;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 19.5px;
+	font-weight: 400;
+	line-height: 23.40000057220459px;
+}
+.Frame1125_Frame1125 .Rectangle7 {
+	position: absolute;
+	left: 421.5px;
+	top: 255px;
+	width: 632.25px;
+	height: 354px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 7.5px;
+}

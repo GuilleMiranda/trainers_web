@@ -1,0 +1,264 @@
+
+.Frame1123_Frame1123 {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+}
+.Frame1123_Frame1123 .Rectangle142 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 810px;
+	background: rgba(255,255,255,1.00);
+}
+.Frame1123_Frame1123 .Footer {
+	position: absolute;
+	left: 0px;
+	top: 735px;
+	width: 1440px;
+	height: 75px;
+}
+.Frame1123_Frame1123 .Footer .Rectangle141 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 75px;
+	background: rgba(80,160,255,1.00);
+}
+.Frame1123_Frame1123 .Login {
+	position: absolute;
+	left: 504.75px;
+	top: 216.75px;
+	width: 388.5px;
+	height: 319.67479705810547px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 51px;
+	padding-bottom: 51px;
+	box-sizing: border-box;
+	align-items: center;
+	background: rgba(255,255,255,1.00);
+	border-radius: 7.5px;
+}
+.Frame1123_Frame1123 .Login .Dados {
+	position: relative;
+	flex: none;
+	margin-bottom: 18px;
+	width: 388.5px;
+	height: 27px;
+	display: flex;
+	padding-top: 7.5px;
+	padding-right: 7.5px;
+	padding-bottom: 7.5px;
+	padding-left: 7.5px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+}
+.Frame1123_Frame1123 .Login .Dados .Login_1 {
+	position: relative;
+	flex: none;
+	margin-right: 7.5px;
+	width: 27.75px;
+	height: 12px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: flex-end;
+	color: rgba(0,0,0,0.50);
+	font-family: Public Sans;
+	font-size: 10.5px;
+	font-weight: 400;
+	line-height: 12.3046875px;
+}
+.Frame1123_Frame1123 .Login .Usurio {
+	position: relative;
+	flex: none;
+	margin-bottom: 18px;
+	width: 388.5px;
+	height: 50.25px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 7.5px;
+	padding-right: 3.75px;
+	padding-bottom: 7.5px;
+	padding-left: 3.75px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+}
+.Frame1123_Frame1123 .Login .Usurio .Group1120 {
+	position: relative;
+	flex: none;
+	margin-bottom: 6px;
+	width: 211.125px;
+	height: 37.5000114440918px;
+}
+.Frame1123_Frame1123 .Login .Usurio .Group1120 .Usuario {
+	position: absolute;
+	left: 0.375px;
+	top: 0px;
+	width: 37.5px;
+	height: 12.75px;
+	display: flex;
+	align-items: flex-end;
+	color: rgba(51,51,51,1.00);
+	font-family: Public Sans;
+	font-size: 10.5px;
+	font-weight: 400;
+	line-height: 12.3046875px;
+}
+.Frame1123_Frame1123 .Login .Usurio .Group1120 .Usuario_1 {
+	position: absolute;
+	left: 0px;
+	top: 21.7880859375px;
+	width: 37.5px;
+	height: 12.75px;
+	display: flex;
+	align-items: flex-end;
+	color: rgba(0,0,0,0.54);
+	font-family: Public Sans;
+	font-size: 10.5px;
+	font-weight: 400;
+	line-height: 12.3046875px;
+}
+.Frame1123_Frame1123 .Login .Usurio .Group1120 .filledsocialperson {
+	position: absolute;
+	left: 193.125px;
+	top: 19.5px;
+	width: 18px;
+	height: 18.000011444091797px;
+	border-radius: 7.5px;
+}
+.Frame1123_Frame1123 .Login .Usurio .Group1120 .filledsocialperson .Vector {
+	position: absolute;
+	left: 3px;
+	top: 3px;
+	width: 66.66666666666666%;
+	height: 66.66662428116844%;
+}
+.Frame1123_Frame1123 .Login .Usurio .Line1 {
+	position: relative;
+	flex: none;
+	margin-bottom: 6px;
+	width: 216.75px;
+	height: 0.00002288818359375px;
+	border: 1px solid rgba(0,0,0,1);
+}
+.Frame1123_Frame1123 .Login .Senha {
+	position: relative;
+	flex: none;
+	margin-bottom: 18px;
+	width: 388.5px;
+	height: 51.75px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 7.5px;
+	padding-right: 3.75px;
+	padding-bottom: 7.5px;
+	padding-left: 3.75px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+}
+.Frame1123_Frame1123 .Login .Senha .Group1121 {
+	position: relative;
+	flex: none;
+	margin-bottom: 6px;
+	width: 210.75px;
+	height: 37.5px;
+}
+.Frame1123_Frame1123 .Login .Senha .Group1121 .Contrasea {
+	position: absolute;
+	left: 0px;
+	top: 22.5px;
+	width: 56.25px;
+	height: 12.75px;
+	display: flex;
+	align-items: flex-end;
+	color: rgba(0,0,0,0.54);
+	font-family: Public Sans;
+	font-size: 10.5px;
+	font-weight: 400;
+	line-height: 12.3046875px;
+}
+.Frame1123_Frame1123 .Login .Senha .Group1121 .Contrasea_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 56.25px;
+	height: 12.75px;
+	display: flex;
+	align-items: flex-end;
+	color: rgba(51,51,51,1.00);
+	font-family: Public Sans;
+	font-size: 10.5px;
+	font-weight: 400;
+	line-height: 12.3046875px;
+}
+.Frame1123_Frame1123 .Login .Senha .Group1121 .filledactionvisibilityoff {
+	position: absolute;
+	left: 192.75px;
+	top: 19.5px;
+	width: 18px;
+	height: 18px;
+	border-radius: 7.5px;
+}
+.Frame1123_Frame1123 .Login .Senha .Group1121 .filledactionvisibilityoff .Vector_1 {
+	position: absolute;
+	left: 0.75px;
+	top: 2.25px;
+	width: 91.62495930989584%;
+	height: 79.16666666666666%;
+}
+.Frame1123_Frame1123 .Login .Senha .Line2 {
+	position: relative;
+	flex: none;
+	margin-bottom: 6px;
+	width: 216.75px;
+	height: 0.00002288818359375px;
+	border: 1px solid rgba(0,0,0,1);
+}
+.Frame1123_Frame1123 .Login .UnstyledButton {
+	position: relative;
+	flex: none;
+	margin-bottom: 18px;
+	width: 322.5px;
+	height: 34.67479705810547px;
+	background: rgba(80,160,255,1.00);
+	border-radius: 3.75px;
+}
+.Frame1123_Frame1123 .Login .UnstyledButton .Button {
+	position: relative;
+	flex: none;
+	margin-bottom: 6px;
+	width: 11.627906976744185%;
+	height: 56.236810751403496%;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 11.25px;
+	font-weight: 500;
+	line-height: 19.5px;
+}
+.Frame1123_Frame1123 .Logo {
+	position: absolute;
+	left: 621px;
+	top: 248.25px;
+	width: 156px;
+	height: 53.25px;
+}
+.Frame1123_Frame1123 .Logo .image1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 156px;
+	height: 53.25px;
+	object-fit: cover;
+	overflow: hidden;
+}
